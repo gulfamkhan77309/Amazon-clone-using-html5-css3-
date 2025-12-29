@@ -1,1 +1,1 @@
-# AMAZON CLONE (USING HTML5 AND CSS3)
+# AMAZON CLONE (Using html5 and css3)
