@@ -6,6 +6,11 @@ The project focuses on layout structure, UI design, and basic styling similar to
 ⚠️ *Note:* This project is *not responsive* and is best viewed on desktop screens.
 
 ---
+## Live Demo
+
+Click here for demo - https://gulfamkhan77309.github.io/Amazon-clone/
+
+
 
 ## 📸 Screenshots
 (![alt text](home-page-screenshot.png))
